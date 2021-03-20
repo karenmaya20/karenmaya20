@@ -14,7 +14,3 @@ _Knowing a little about all the modules of the degree, interested in servers, da
 * Database with MySQL
 * Some servers DELL Family (poweredge R910, R940, R330)
 
-## Author ✒️
-
-* **Karen Maya Ramírez** 
-_Pasante de Ingenería en computación por UNAM/FI_
