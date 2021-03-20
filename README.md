@@ -2,7 +2,7 @@
 
 _Repositories created at different times in life where little or much knowledge was had _
 
-## Comenzando 🚀
+## Starting 🚀
 
 _Conociendo un poco de todos los módulos de la carrera, interesada en servidores, en las bases de datos y la programación_
 * Applying knowledge to something "real"
