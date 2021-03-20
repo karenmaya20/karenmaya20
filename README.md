@@ -4,17 +4,17 @@ _Repositories created at different times in life where little or much knowledge 
 
 ## Starting 🚀
 
-_Conociendo un poco de todos los módulos de la carrera, interesada en servidores, en las bases de datos y la programación_
+_Knowing a little about all the modules of the degree, interested in servers, databases and programming_
 * Applying knowledge to something "real"
 
 ## Knowledge in: 🛠️
 
 * XCode / Swift (en proceso ...)
 * Visual Code / Js, Python
-* Bases de datos con MySQL
-* Un poco de servidores de la familia de DELL (poweredge R910, R940, R330)
+* Database with MySQL
+* Some servers DELL Family (poweredge R910, R940, R330)
 
-## Autora ✒️
+## Author ✒️
 
 * **Karen Maya Ramírez** 
 _Pasante de Ingenería en computación por UNAM/FI_
