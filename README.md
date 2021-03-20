@@ -1,13 +1,13 @@
-# Un poco sobre mí
+# A little about me
 
-_Repositorios de creados en distintos momentos de la vida donde se tenía poco o mucho conocimiento_
+_Repositories created at different times in life where little or much knowledge was had _
 
 ## Comenzando 🚀
 
 _Conociendo un poco de todos los módulos de la carrera, interesada en servidores, en las bases de datos y la programación_
-* Aplicando el conocimiento en algo "real"
+* Applying knowledge to something "real"
 
-## Conocimientos en: 🛠️
+## Knowledge in: 🛠️
 
 * XCode / Swift (en proceso ...)
 * Visual Code / Js, Python
