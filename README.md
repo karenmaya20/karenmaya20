@@ -1,6 +1,6 @@
 # A little about me
 
-_Repositories created at different times in life where little or much knowledge was had _
+_Repositories created at different times in life where little or much knowledge was had_
 
 ## Starting 🚀
 
