@@ -9,8 +9,8 @@ _Conociendo un poco de todos los módulos de la carrera, interesada en servidore
 
 ## Conocimientos en: 🛠️
 
-* XCode / Swift
-* Visual Code /Js, Python, 
+* XCode / Swift (en proceso ...)
+* Visual Code / Js, Python
 * Bases de datos con MySQL
 * Un poco de servidores de la familia de DELL (poweredge R910, R940, R330)
 
